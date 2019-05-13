@@ -22,4 +22,8 @@ body{
 
 .blockColor{
 	background-color: #f5f5f5;
+	border-radius: 6px;
+  	border: 1px solid #FFFFFF;
+  	padding: 20px; 
+  	height: 200px;
 }
